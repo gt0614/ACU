@@ -1,0 +1,3 @@
+cx_Oracle==8.1.0
+configparser
+paramiko==3.4.0

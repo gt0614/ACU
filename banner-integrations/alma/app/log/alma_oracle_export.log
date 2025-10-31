@@ -1,0 +1,124 @@
+2025-10-17 14:57:18,160 INFO Connecting to Oracle DB: PREPRDXE
+2025-10-17 14:57:18,758 INFO Fetched 10 students
+2025-10-17 14:57:18,771 INFO XML written to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\student-17-10-2025-145718.xml
+2025-10-17 14:57:18,841 INFO XML cleanup done
+2025-10-17 14:57:18,896 INFO Zipped to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\student-17-10-2025-145718.zip
+2025-10-17 14:57:18,956 INFO Archived to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\archive\student-17-10-2025-145718.zip
+2025-10-17 14:57:19,012 INFO No network_dir provided. Skipping delivery.
+2025-10-17 15:02:25,097 INFO Connecting to Oracle DB: PREPRDXE
+2025-10-17 15:02:25,709 INFO Fetched 10 students
+2025-10-17 15:02:25,728 INFO XML written to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\student-17-10-2025-150225.xml
+2025-10-17 15:02:25,868 INFO XML cleanup done
+2025-10-17 15:02:25,921 INFO Zipped to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\student-17-10-2025-150225.zip
+2025-10-17 15:02:25,963 INFO Archived to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\archive\student-17-10-2025-150225.zip
+2025-10-17 15:02:25,982 INFO No network_dir provided. Skipping delivery.
+2025-10-17 15:13:46,843 INFO Connecting to Oracle DB: PREPRDXE
+2025-10-17 15:13:47,498 INFO Fetched 10 students
+2025-10-17 15:13:48,031 INFO XML written to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\student-17-10-2025-151346.xml
+2025-10-17 15:13:48,079 INFO XML cleanup done
+2025-10-17 15:13:48,121 INFO Zipped to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\student-17-10-2025-151346.zip
+2025-10-17 15:13:48,188 INFO Archived to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\archive\student-17-10-2025-151346.zip
+2025-10-17 15:13:48,190 INFO No network_dir provided. Skipping delivery.
+2025-10-17 15:15:21,526 INFO Connecting to Oracle DB: PREPRDXE
+2025-10-17 15:15:22,110 INFO Fetched 10 students
+2025-10-17 15:15:22,403 INFO XML written to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\student-17-10-2025-151521.xml
+2025-10-17 15:15:22,433 INFO XML cleanup done
+2025-10-17 15:15:22,492 INFO Zipped to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\student-17-10-2025-151521.zip
+2025-10-17 15:15:22,552 INFO Archived to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\archive\student-17-10-2025-151521.zip
+2025-10-17 15:15:22,553 INFO No network_dir provided. Skipping delivery.
+2025-10-23 15:37:22,867 INFO Connecting to Oracle DB: PREPRDXE
+2025-10-23 15:37:23,478 INFO Fetched 10 students
+2025-10-23 15:37:23,806 INFO Preloaded 1111 addresses, 556 emails, 1112 phones
+2025-10-23 15:37:23,825 INFO XML written to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\student-23-10-2025-153722.xml
+2025-10-23 15:37:23,896 INFO XML cleanup done
+2025-10-23 15:37:23,926 INFO Zipped to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\student-23-10-2025-153722.zip
+2025-10-23 15:37:24,012 INFO Archived to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\archive\student-23-10-2025-153722.zip
+2025-10-23 15:37:24,013 INFO No network_dir provided. Skipping delivery.
+2025-10-23 16:07:07,478 INFO Connecting to Oracle DB: PREPRDXE
+2025-10-23 16:07:08,191 INFO Fetched 10 students
+2025-10-23 16:07:08,290 INFO Preloaded 1111 addresses, 556 emails, 1112 phones
+2025-10-23 16:07:08,303 INFO XML written to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\student-23-10-2025-160707.xml
+2025-10-23 16:07:08,383 INFO XML cleanup done
+2025-10-23 16:07:08,415 INFO Zipped to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\student-23-10-2025-160707.zip
+2025-10-23 16:07:08,493 INFO Archived to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\archive\student-23-10-2025-160707.zip
+2025-10-23 16:07:08,494 INFO No network_dir provided. Skipping delivery.
+2025-10-23 16:21:34,458 INFO Connecting to Oracle DB: PREPRDXE
+2025-10-23 16:21:35,106 INFO Fetched 10 students
+2025-10-23 16:21:35,205 INFO Preloaded 1111 addresses, 556 emails, 1112 phones
+2025-10-23 16:21:35,207 ERROR Oracle or XML error: cannot access local variable 'student' where it is not associated with a value
+2025-10-23 16:22:15,751 INFO Connecting to Oracle DB: PREPRDXE
+2025-10-23 16:22:16,454 INFO Fetched 10 students
+2025-10-23 16:22:16,543 INFO Preloaded 1111 addresses, 556 emails, 1112 phones
+2025-10-23 16:22:16,546 ERROR Oracle or XML error: cannot access local variable 'student' where it is not associated with a value
+2025-10-23 16:25:06,804 INFO Connecting to Oracle DB: PREPRDXE
+2025-10-23 16:25:07,478 INFO Fetched 10 students
+2025-10-23 16:25:07,588 INFO Preloaded 1111 addresses, 556 emails, 1112 phones
+2025-10-23 16:25:07,602 INFO XML written to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\student-23-10-2025-162506.xml
+2025-10-23 16:25:07,684 INFO XML cleanup done
+2025-10-23 16:25:07,740 INFO Zipped to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\student-23-10-2025-162506.zip
+2025-10-23 16:25:07,807 INFO Archived to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\archive\student-23-10-2025-162506.zip
+2025-10-23 16:25:07,811 INFO No network_dir provided. Skipping delivery.
+2025-10-23 16:27:22,634 INFO Connecting to Oracle DB: PREPRDXE
+2025-10-23 16:27:23,364 INFO Fetched 10 students
+2025-10-23 16:27:23,467 INFO Preloaded 1111 addresses, 556 emails, 1112 phones
+2025-10-23 16:27:23,470 INFO Student PIDM: 372080
+2025-10-23 16:27:23,472 INFO Addresses found: 2
+2025-10-23 16:27:23,473 INFO Emails found: 1
+2025-10-23 16:27:23,475 INFO Phones found: 2
+2025-10-23 16:27:23,476 INFO Student PIDM: 375036
+2025-10-23 16:27:23,478 INFO Addresses found: 2
+2025-10-23 16:27:23,479 INFO Emails found: 1
+2025-10-23 16:27:23,481 INFO Phones found: 2
+2025-10-23 16:27:23,484 INFO Student PIDM: 376796
+2025-10-23 16:27:23,507 INFO Addresses found: 2
+2025-10-23 16:27:23,510 INFO Emails found: 1
+2025-10-23 16:27:23,514 INFO Phones found: 2
+2025-10-23 16:27:23,528 INFO Student PIDM: 379722
+2025-10-23 16:27:23,537 INFO Addresses found: 2
+2025-10-23 16:27:23,539 INFO Emails found: 1
+2025-10-23 16:27:23,542 INFO Phones found: 2
+2025-10-23 16:27:23,545 INFO Student PIDM: 383079
+2025-10-23 16:27:23,550 INFO Addresses found: 2
+2025-10-23 16:27:23,552 INFO Emails found: 1
+2025-10-23 16:27:23,571 INFO Phones found: 2
+2025-10-23 16:27:23,576 INFO Student PIDM: 386411
+2025-10-23 16:27:23,594 INFO Addresses found: 2
+2025-10-23 16:27:23,601 INFO Emails found: 1
+2025-10-23 16:27:23,604 INFO Phones found: 2
+2025-10-23 16:27:23,617 INFO Student PIDM: 386566
+2025-10-23 16:27:23,631 INFO Addresses found: 2
+2025-10-23 16:27:23,637 INFO Emails found: 1
+2025-10-23 16:27:23,641 INFO Phones found: 2
+2025-10-23 16:27:23,658 INFO Student PIDM: 388566
+2025-10-23 16:27:23,659 INFO Addresses found: 2
+2025-10-23 16:27:23,661 INFO Emails found: 1
+2025-10-23 16:27:23,664 INFO Phones found: 2
+2025-10-23 16:27:23,667 INFO Student PIDM: 388941
+2025-10-23 16:27:23,671 INFO Addresses found: 2
+2025-10-23 16:27:23,676 INFO Emails found: 1
+2025-10-23 16:27:23,691 INFO Phones found: 2
+2025-10-23 16:27:23,694 INFO Student PIDM: 389411
+2025-10-23 16:27:23,697 INFO Addresses found: 2
+2025-10-23 16:27:23,701 INFO Emails found: 1
+2025-10-23 16:27:23,706 INFO Phones found: 2
+2025-10-23 16:27:23,735 INFO XML written to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\student-23-10-2025-162722.xml
+2025-10-23 16:27:23,799 INFO XML cleanup done
+2025-10-23 16:27:23,864 INFO Zipped to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\student-23-10-2025-162722.zip
+2025-10-23 16:27:23,940 INFO Archived to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\archive\student-23-10-2025-162722.zip
+2025-10-23 16:27:23,945 INFO No network_dir provided. Skipping delivery.
+2025-10-23 16:29:23,025 INFO Connecting to Oracle DB: PREPRDXE
+2025-10-23 16:29:23,656 INFO Fetched 10 students
+2025-10-23 16:29:23,777 INFO Preloaded 1111 addresses, 556 emails, 1112 phones
+2025-10-23 16:29:23,794 INFO XML written to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\student-23-10-2025-162923.xml
+2025-10-23 16:29:23,882 INFO XML cleanup done
+2025-10-23 16:29:23,946 INFO Zipped to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\student-23-10-2025-162923.zip
+2025-10-23 16:29:24,050 INFO Archived to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\archive\student-23-10-2025-162923.zip
+2025-10-23 16:29:24,060 INFO No network_dir provided. Skipping delivery.
+2025-10-23 16:43:57,174 INFO Connecting to Oracle DB: PREPRDXE
+2025-10-23 16:43:57,775 INFO Fetched 10 students
+2025-10-23 16:43:57,909 INFO Preloaded 1111 addresses, 556 emails, 1112 phones
+2025-10-23 16:43:57,929 INFO XML written to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\student-23-10-2025-164357.xml
+2025-10-23 16:43:58,073 INFO XML cleanup done
+2025-10-23 16:43:58,183 INFO Zipped to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\student-23-10-2025-164357.zip
+2025-10-23 16:43:58,293 INFO Archived to C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\alma\app\data\archive\student-23-10-2025-164357.zip
+2025-10-23 16:43:58,296 INFO No network_dir provided. Skipping delivery.

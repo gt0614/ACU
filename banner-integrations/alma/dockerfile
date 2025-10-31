@@ -1,0 +1,26 @@
+# Dockerfile for ALMA Oracle Export using cx-Oracle and configparser
+FROM python:3.7
+
+# Set working directory
+WORKDIR /opt/oracle
+
+# Install Oracle Instant Client dependencies
+RUN apt-get update &&     apt-get install -y libaio1 wget unzip &&     wget https://download.oracle.com/otn_software/linux/instantclient/211000/instantclient-basic-linux.x64-21.1.0.0.0.zip &&     unzip instantclient-basic-linux.x64-21.1.0.0.0.zip &&     rm -f instantclient-basic-linux.x64-21.1.0.0.0.zip &&     cd /opt/oracle/instantclient_21_1 && rm -f *jdbc* *occi* *mysql* *README *jar uidrvci genezi adrci &&     echo /opt/oracle/instantclient > /etc/ld.so.conf.d/oic.conf &&     ldconfig
+
+# Set environment variables
+ENV ORACLE_HOME=/opt/oracle/instantclient_21_1
+ENV LD_LIBRARY_PATH=$ORACLE_HOME
+
+# Set working directory for app execution
+WORKDIR /var/tmp
+
+# Copy project files
+COPY requirements.txt ./
+COPY src/ ./src/
+COPY app/ ./app/
+
+# Install Python dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Default command to run the script with environment argument
+CMD ["python", "src/alma_extract_main.py", "--environment", "PREPROD"]

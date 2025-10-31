@@ -1,0 +1,13 @@
+2025-10-28 13:15:33,135 ERROR File write failed: [Errno 22] Invalid argument: 'app/data\\20251028_05-15-01_C0266_StudentData.dat".dat"'
+2025-10-28 13:15:33,135 ERROR Fatal error: [Errno 22] Invalid argument: 'app/data\\20251028_05-15-01_C0266_StudentData.dat".dat"'
+Traceback (most recent call last):
+  File "C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\opal\src\opal_extract_main.py", line 162, in main
+    write_flat_file(lines, flat_file_path)
+  File "C:\Users\GeTauteVendor_Admin\source\repos\banner-integrations\opal\src\opal_extract_main.py", line 107, in write_flat_file
+    with open(file_path, "w", encoding="utf-8") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument: 'app/data\\20251028_05-15-01_C0266_StudentData.dat".dat"'
+2025-10-28 13:24:46,733 INFO Wrote flat file: app/data\20251028_05-15-01_C0266_StudentData.dat
+2025-10-28 13:24:46,796 INFO Archived app/data\20251028_05-15-01_C0266_StudentData.dat to app/data\archive\20251028_05-15-01_C0266_StudentData.dat
+2025-10-28 13:24:46,798 INFO SFTP parameters not supplied, skipping upload.
+2025-10-28 13:24:46,799 INFO Process complete.
